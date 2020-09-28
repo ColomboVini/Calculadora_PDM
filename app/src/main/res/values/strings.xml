@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora - Vinicius Colombo</string>
+    <string name="lbltitulo">Calculadora</string>
+    <string name="btsoma">"+"</string>
+    <string name="btsub">-</string>
+    <string name="btraiz">√</string>
+    <string name="btpot">Potência</string>
+    <string name="btlog">Log</string>
+    <string name="btgra">Gravar</string>
+    <string name="btrec">Recuperar último resultado</string>
+    <string name="res_teste1">res_value_teste1</string>
+</resources>
